@@ -16,7 +16,7 @@ export const CONFIG = {
     "timeseries_chart": true,
 
     // 6. (Optional) Set your banner image
-    "banner_picture": "",
+    "banner_picture": "https://lh3.googleusercontent.com/PyB8TBZHc5PG9aRb4G0EF-wU2uOMJqUxoNv10td4yiToBC5F7e_de87dMs2LAO68ulEfa-do5V71BxFV2pz9dm-Gc4FLRp8NbptOWFU=w600",
   },
 
   // Supported networks - just for your reference
